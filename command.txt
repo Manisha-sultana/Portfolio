@@ -1,0 +1,2 @@
+create folder --- mkdir
+  create file --- New-Item -path filebname  || linux(touch)
