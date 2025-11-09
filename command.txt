@@ -1,2 +1,3 @@
 create folder --- mkdir
   create file --- New-Item -path filebname  || linux(touch)
+create file----new-item -p Manisha
